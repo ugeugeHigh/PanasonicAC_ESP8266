@@ -14,8 +14,8 @@ const int khz = 38;
 File myFile;
 int i = 0;
 
-#define STASSID "gen_LAN"
-#define STAPSK "07290614"
+#define STASSID "****"
+#define STAPSK "****"
 
 const char* ssid = STASSID;
 const char* pass = STAPSK;
